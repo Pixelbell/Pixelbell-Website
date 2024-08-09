@@ -3272,7 +3272,7 @@
 	}
 
 	.custom-icon {
-		display: inline-block;
+		display: flex;
  		width: 40px;  /* Breite des Icons */
  		height: 40px; /* Höhe des Icons */
   		background-image: url('/assets/css/images/Icon_Mail.png');  /* Pfad zu deinem Icon */
