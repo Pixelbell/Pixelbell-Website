@@ -3261,17 +3261,20 @@
 		text-align: center;
 	}
 
-		#footer .icons a {
-			-moz-transition: opacity 0.2s ease-in-out;
-			-webkit-transition: opacity 0.2s ease-in-out;
-			-ms-transition: opacity 0.2s ease-in-out;
-			transition: opacity 0.2s ease-in-out;
-			opacity: 0.35;
+	.custom-icon {
+		display: inline-block;
+ 		width: 24px;  /* Breite des Icons */
+ 		height: 24px; /* Höhe des Icons */
+  		background-image: url"images/Icon_Insta.jpg";  /* Pfad zu deinem Icon */
+  		background-size: contain;
+  		background-repeat: no-repeat;
+  		text-indent: -9999px;  /* Text ausblenden */
 		}
 
-			#footer .icons a:hover {
-				opacity: 0.75;
-			}
+		.custom-icon:hover {
+  			opacity: 0.8; /* Beispiel für einen Hover-Effekt */
+		}
+
 
 		#footer .copyright {
 			color: #999;
