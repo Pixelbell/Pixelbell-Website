@@ -3261,30 +3261,28 @@
 		text-align: center;
 	}
 
+	.custom-icon {
+  		display: inline-block;
+    		width: 40px;  /* Einheitliche Breite der Icons */
+    		height: 40px; /* Einheitliche Höhe der Icons */
+    		margin: 0 10px; /* Abstand zwischen den Icons */
+    		background-size: contain;
+    		background-repeat: no-repeat;
+    		background-position: center;
+    		text-indent: -9999px; /* Text ausblenden */
+	}
+
 	.custom-icon-insta {
-		display: inline-block;
- 		width: 20px;  /* Breite des Icons */
- 		height: 20px; /* Höhe des Icons */
-  		background-image: url('assets/css/images/Icon_Insta.png');  /* Pfad zu deinem Icon */
-  		background-size: contain;
-  		background-repeat: no-repeat;
-  		text-indent: -9999px;  /* Text ausblenden */
+    		background-image: url('assets/css/images/Icon_Insta.png');
 	}
 
 	.custom-icon-mail {
-		display: inline-block;
- 		width: 20px;  /* Breite des Icons */
- 		height: 20px; /* Höhe des Icons */
-  		background-image: url('assets/css/images/Icon_Mail.png');  /* Pfad zu deinem Icon */
-  		background-size: contain;
-  		background-repeat: no-repeat;
-  		text-indent: -9999px;  /* Text ausblenden */
+    		background-image: url('assets/css/images/Icon_Mail.png');
 	}
 
-		.custom-icon:hover {
-  			opacity: 0.8; /* Beispiel für einen Hover-Effekt */
-		}
-
+	.custom-icon:hover {
+  		opacity: 0.8; /* Beispiel für einen Hover-Effekt */
+	}
 
 		#footer .copyright {
 			color: #999;
