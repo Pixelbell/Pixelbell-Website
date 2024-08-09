@@ -3265,7 +3265,7 @@
 		display: inline-block;
  		width: 40px;  /* Breite des Icons */
  		height: 40px; /* Höhe des Icons */
-  		background-image: url('/assets/css/images/Icon_Insta.png');  /* Pfad zu deinem Icon */
+  		background-image: url('assets/css/images/Icon_Insta.png');  /* Pfad zu deinem Icon */
   		background-size: contain;
   		background-repeat: no-repeat;
   		text-indent: -9999px;  /* Text ausblenden */
@@ -3275,7 +3275,7 @@
 		display: inline-block;
  		width: 40px;  /* Breite des Icons */
  		height: 40px; /* Höhe des Icons */
-  		background-image: url('/assets/css/images/Icon_Mail.png');  /* Pfad zu deinem Icon */
+  		background-image: url('assets/css/images/Icon_Mail.png');  /* Pfad zu deinem Icon */
   		background-size: contain;
   		background-repeat: no-repeat;
   		text-indent: -9999px;  /* Text ausblenden */
