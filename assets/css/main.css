@@ -3263,8 +3263,8 @@
 
 	.custom-icon-insta {
 		display: inline-block;
- 		width: 40px;  /* Breite des Icons */
- 		height: 40px; /* Höhe des Icons */
+ 		width: 20px;  /* Breite des Icons */
+ 		height: 20px; /* Höhe des Icons */
   		background-image: url('assets/css/images/Icon_Insta.png');  /* Pfad zu deinem Icon */
   		background-size: contain;
   		background-repeat: no-repeat;
@@ -3273,8 +3273,8 @@
 
 	.custom-icon-mail {
 		display: inline-block;
- 		width: 40px;  /* Breite des Icons */
- 		height: 40px; /* Höhe des Icons */
+ 		width: 20px;  /* Breite des Icons */
+ 		height: 20px; /* Höhe des Icons */
   		background-image: url('assets/css/images/Icon_Mail.png');  /* Pfad zu deinem Icon */
   		background-size: contain;
   		background-repeat: no-repeat;
