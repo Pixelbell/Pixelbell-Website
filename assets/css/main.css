@@ -3265,7 +3265,7 @@
 		display: inline-block;
  		width: 30px;  /* Breite des Icons */
  		height: 30px; /* Höhe des Icons */
-  		background-image: url('images/Icon_Insta.jpg');  /* Pfad zu deinem Icon */
+  		background-image: url('assets/css/images/Icon_Insta.jpg');  /* Pfad zu deinem Icon */
   		background-size: contain;
   		background-repeat: no-repeat;
   		text-indent: -9999px;  /* Text ausblenden */
