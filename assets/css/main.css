@@ -3273,11 +3273,11 @@
 	}
 
 	.custom-icon-insta {
-    		background-image: url('assets/css/images/Icon_Insta.png');
+    		background-image: url('/assets/css/images/Icon_Insta.png');
 	}
 
 	.custom-icon-mail {
-    		background-image: url('assets/css/images/Icon_Mail.png');
+    		background-image: url('/assets/css/images/Icon_Mail.png');
 	}
 
 	.custom-icon:hover {
