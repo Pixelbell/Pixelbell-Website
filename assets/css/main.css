@@ -3263,8 +3263,8 @@
 
 	.custom-icon {
 		display: inline-block;
- 		width: 24px;  /* Breite des Icons */
- 		height: 24px; /* Höhe des Icons */
+ 		width: 30px;  /* Breite des Icons */
+ 		height: 30px; /* Höhe des Icons */
   		background-image: url('images/Icon_Insta.jpg');  /* Pfad zu deinem Icon */
   		background-size: contain;
   		background-repeat: no-repeat;
