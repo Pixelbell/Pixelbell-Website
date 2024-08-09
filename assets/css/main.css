@@ -3269,6 +3269,7 @@
   		background-size: contain;
   		background-repeat: no-repeat;
   		text-indent: -9999px;  /* Text ausblenden */
+		background-color: transparent;
 		}
 
 		.custom-icon:hover {
