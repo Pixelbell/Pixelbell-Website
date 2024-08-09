@@ -3271,14 +3271,18 @@
     		background-position: center;
     		text-indent: -9999px; /* Text ausblenden */
 	}
-
 	.custom-icon-insta {
     		background-image: url('/assets/css/images/Icon_Insta.png');
-	}
+		}
 
 	.custom-icon-mail {
     		background-image: url('/assets/css/images/Icon_Mail.png');
-	}
+		}
+
+	.custom-icon-phone {
+    		background-image: url('/assets/css/images/Icon_Phone.png');
+		}
+
 
 	.custom-icon:hover {
   		opacity: 0.8; /* Beispiel für einen Hover-Effekt */
