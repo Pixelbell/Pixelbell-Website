@@ -3261,7 +3261,7 @@
 		text-align: center;
 	}
 
-	.custom-icon {
+	.custom-icon-insta {
 		display: inline-block;
  		width: 40px;  /* Breite des Icons */
  		height: 40px; /* Höhe des Icons */
@@ -3271,11 +3271,11 @@
   		text-indent: -9999px;  /* Text ausblenden */
 	}
 
-	.custom-icon {
-		display: flex;
+	.custom-icon-mail {
+		display: inline-block;
  		width: 40px;  /* Breite des Icons */
  		height: 40px; /* Höhe des Icons */
-  		background-image: url('assets/css/images/Icon_Mail.png');  /* Pfad zu deinem Icon */
+  		background-image: url('/assets/css/images/Icon_Mail.png');  /* Pfad zu deinem Icon */
   		background-size: contain;
   		background-repeat: no-repeat;
   		text-indent: -9999px;  /* Text ausblenden */
