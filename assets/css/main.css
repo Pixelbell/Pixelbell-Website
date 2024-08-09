@@ -3263,8 +3263,8 @@
 
 	.custom-icon {
   		display: inline-block;
-    		width: 30px;  /* Einheitliche Breite der Icons */
-    		height: 30px; /* Einheitliche Höhe der Icons */
+    		width: 50px;  /* Einheitliche Breite der Icons */
+    		height: 50px; /* Einheitliche Höhe der Icons */
     		margin: 0 10px; /* Abstand zwischen den Icons */
     		background-size: contain;
     		background-repeat: no-repeat;
