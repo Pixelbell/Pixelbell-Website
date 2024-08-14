@@ -78,11 +78,6 @@
 		appearance: none;
 	}
 
-	#logo {
-    		width: 300px; /* Ändere die Breite nach Bedarf */
-    		height: auto; /* Hält das Seitenverhältnis bei */
-	}
-
 /* Basic */
 
 	@-ms-viewport {
@@ -120,6 +115,11 @@
 		font-weight: 300;
 		line-height: 1.65em;
 		letter-spacing: -0.015em;
+	}
+
+	#logo {
+    		width: 300px; /* Ändere die Breite nach Bedarf */
+    		height: auto; /* Hält das Seitenverhältnis bei */
 	}
 
 	a {
