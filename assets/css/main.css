@@ -78,6 +78,11 @@
 		appearance: none;
 	}
 
+	#logo {
+    		width: 150px; /* Ändere die Breite nach Bedarf */
+    		height: auto; /* Hält das Seitenverhältnis bei */
+	}
+
 /* Basic */
 
 	@-ms-viewport {
